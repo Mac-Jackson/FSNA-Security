@@ -3,18 +3,21 @@
 </p>
 
 <h1>Configure SSH & Disable Telnet</h1>
-This Lab tutorial outlines the implementation of Secure Shell and the Disablement of Telnet.<br />
+This Lab tutorial outlines the implementation of Secure Remote Management, Secure Shell and the Disablement of Telnet.<br />
 
 
 <h2>Networking Technologies Used</h2>
 
-- Inter-VLAN Routing
-- Subnetting
+- SSH (Secure Shell) Version 2
+- RSA Cryptographic Keys
+- VTY Lines
+- Domain Name System (DNS)
 
 
 <h2>Environments Used </h2>
 
 - Command-Line Interface (CLI)
+- Cisco IOS Router or Switch
 
 
 <h2>Tools Used </h2>
@@ -23,11 +26,10 @@ This Lab tutorial outlines the implementation of Secure Shell and the Disablemen
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1  Configure FSNA-RTR with Inter-VLAN routing, DHCP, & Internet Services
-- Step 2  Configure Interface G0/0 for Inter-VLAN routing for the Mgmt, Data, & Voice VLANs
-- Step 3  Configure DHCP Services for the Data VLAN
-- Step 4  Add a Default Route for Internet Access
-
+- Step 1  Configure SSH on a Cisco IOS Router or Switch
+- Step 2  Add a Domain Name to the device (FSNA.Local)
+- Step 3  Generate the RSA Crypto Keys - 1024 bit minimum, 2048 recommended
+- Step 4  Enable SSH Version 2
 <h2>Deployment and Configuration Steps</h2>
 
 <p>

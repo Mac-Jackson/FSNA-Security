@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Y6pKrJa.png" alt="Security Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Configure SSH & Disable Telnet</h1>
+This Lab tutorial outlines the implementation of Secure Shell and the Disablement of Telnet.<br />
 
 
 <h2>Video Demonstration</h2>

@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/Y6pKrJa.png" alt="Security Logo"/>
+<img src="https://github.com/user-attachments/assets/1c681a56-318d-4614-a8c0-ef2a32be3425" alt="Security Logo"/>
 </p>
 
 <h1>Configure SSH & Disable Telnet</h1>
-This Lab tutorial outlines the implementation of Secure Remote Management, Secure Shell and the Disablement of Telnet.<br />
+This Lab tutorial outlines the implementation of Secure Remote Management, Secure Shell, and the Disablement of Telnet.<br />
 
 
 <h2>Networking Technologies Used</h2>

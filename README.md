@@ -33,10 +33,10 @@ This Lab tutorial outlines the implementation of Secure Remote Management, Secur
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/EKj7xBG.png" height="80%" width="80%" alt="FSNA-Security"/>
+<img src="https://github.com/user-attachments/assets/8b054e88-c23a-4a79-ad2c-d4ebc72947b4" height="80%" width="80%" alt="FSNA-Security"/>
 </p>
 <p>
- Configure SSH and Disable Telnet
+ Configure SSH And Disable Telnet
  (config)#ip domain-name fsna.local
  (config)#crypto key generate rsa (Modulus: 2048)
  (config)#ip ssh version 2
@@ -47,7 +47,7 @@ This Lab tutorial outlines the implementation of Secure Remote Management, Secur
 <br />
 
 <p>
-<img src="https://i.imgur.com/AUoVis6.png" height="80%" width="80%" alt="FSNA-Security"/>
+<img src="https://github.com/user-attachments/assets/28fb114e-8191-4f99-b32c-8e49a117e9fd" height="80%" width="80%" alt="FSNA-Security"/>
 </p>
 <p>
 Enable SSH version 2
@@ -55,9 +55,8 @@ Enable SSH version 2
 <br />
 
 
-
 <p>
-<img src="https://i.imgur.com/8dNFJuE.png" height="80%" width="80%" alt="FSNA-Security"/>
+<img src="https://github.com/user-attachments/assets/70c39df2-3ab6-48fe-87c7-4677a796bf48" height="80%" width="80%" alt="FSNA-Security"/>
 </p>
 <p>
 Lock Down for no Telnet Access.
